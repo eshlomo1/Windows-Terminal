@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "Ubuntu",
+      "name": "Ubuntu Light",
       "foreground": "#EEEEEC",
       "background": "#2C001E",
       "colors": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "name": "UbuntuLegit",
+      "name": "Ubuntu Light2",
       "foreground": "#EEEEEE",
       "background": "#2C001E",
       "colors": [
